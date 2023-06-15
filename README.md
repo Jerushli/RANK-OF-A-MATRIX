@@ -17,10 +17,11 @@ End the program
 
 #Program to find the rank of a matrix.
 
-#Developed by: Jerushlin Jose J.B
-```
+#Developed by: JERUSHLIN JOSE J.B
 
 #RegisterNumber:212222240039
+
+```
 
 import numpy as np
 
