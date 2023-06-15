@@ -18,6 +18,7 @@ End the program
 #Program to find the rank of a matrix.
 
 #Developed by: Jerushlin Jose J.B
+```
 
 #RegisterNumber:212222240039
 
@@ -28,6 +29,8 @@ A=np.array([[1,2,3],[3,6,9]])
 rank=np.linalg.matrix_rank(A)
 
 print(rank)
+
+```
 
 
 ## Output:
